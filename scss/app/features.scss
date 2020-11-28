@@ -1,0 +1,28 @@
+.callout, .villager {
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 28px;
+}
+
+.callout-title, .villager-title {
+    color: #333;
+    margin-bottom: 36px;
+}
+
+.loves-list {
+    font-family: $font-stack;
+}
+
+.back-button {
+    text-decoration: none;
+    background-color: rgb(0, 121, 186);
+    color: #fff;
+    padding: 12px 18px;
+    font-family: $font-stack;
+    font-weight: bold;
+    margin-top: 28px;
+    display: block;
+    text-align: center;
+
+}
